@@ -1,2 +1,2 @@
-# Interest-Calculator
-Simple and Compound Interest Calculator
+# js-interest-calculator
+JavaScript interest calculator
